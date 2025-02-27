@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=callmiAnggi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmiAnggi&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callmiAnggi&theme=radical)
+
+
 <!--
 **callmiAnggi/callmiAnggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
