@@ -1,4 +1,5 @@
 ## Hi there 👋
+i'm a final year Bioinformatic student at i3L, and graduate of machine learning cohort at Bangkit Academy 2024 batch 2 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=callmiAnggi&show_icons=true&theme=radical)
 
